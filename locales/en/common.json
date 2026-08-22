@@ -300,9 +300,7 @@
     "move": "Move",
     "print": "Print",
     "view_source": "View source",
-
     "fullscreen": "Fullscreen",
-
     "exit_fullscreen": "Exit fullscreen",
     "export_email": "Export as .eml",
     "forward_as_attachment": "Forward as attachment",
@@ -1663,7 +1661,7 @@
         "disable_tooltip": "Disable encryption",
         "enabled_success": "Encryption at rest enabled"
       },
-      "public_keys":{
+      "public_keys": {
         "name_label": "Public Key name",
         "name_placeholder": "e.g. My Key",
         "key_label": "Public Key (S/MIME or PGP ASCII-armored)",
@@ -1840,7 +1838,7 @@
       },
       "refresh_cache": {
         "label": "Refresh cached data",
-        "description": "Reload contacts, calendars, and folders from the server. Keeps your accounts and sessions \u2014 fixes a stale or wrong view without signing out.",
+        "description": "Reload contacts, calendars, and folders from the server. Keeps your accounts and sessions — fixes a stale or wrong view without signing out.",
         "button": "Refresh"
       },
       "reset_settings": {
@@ -2782,7 +2780,8 @@
       "save": "Save",
       "cancel": "Cancel",
       "delete_confirm": "Are you sure you want to delete this event?",
-      "color": "Color"
+      "color": "Color",
+      "saving": "Saving…"
     },
     "participants": {
       "title": "Participants",
